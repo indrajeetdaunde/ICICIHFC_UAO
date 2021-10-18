@@ -1,0 +1,49 @@
+2021-10-18 17:48:19,126 : INFO : test_create_new_application : Enter Username
+2021-10-18 17:48:19,404 : INFO : test_create_new_application : Enter Password
+2021-10-18 17:48:19,571 : INFO : test_create_new_application : Click Login button
+2021-10-18 17:48:28,781 : INFO : test_create_new_application : Enter Applicant Name
+2021-10-18 17:48:29,035 : INFO : test_create_new_application : Enter Applicant Email Id
+2021-10-18 17:48:29,200 : INFO : test_create_new_application : Enter Applicant Mobile Number
+2021-10-18 17:48:29,343 : INFO : test_create_new_application : Choose Customer type
+2021-10-18 17:48:29,426 : INFO : test_create_new_application : Choose branch
+2021-10-18 17:48:29,514 : INFO : test_create_new_application : Choose Location
+2021-10-18 17:48:29,621 : INFO : test_create_new_application : Choose Search Location
+2021-10-18 17:48:30,809 : INFO : test_create_new_application : Choose searched location
+2021-10-18 17:48:31,010 : INFO : test_create_new_application : Choose Broker
+2021-10-18 17:48:31,140 : INFO : test_create_new_application : Choose Search Broker
+2021-10-18 17:48:32,301 : INFO : test_create_new_application : Choose searched Broker
+2021-10-18 17:48:57,907 : INFO : test_create_new_application : Click Logout
+2021-10-18 17:49:13,437 : INFO : test_list : Enter Applicant Name
+2021-10-18 17:49:13,632 : INFO : test_list : Enter Applicant Email ID
+2021-10-18 17:49:13,761 : INFO : test_list : Enter Applican Mobile Number
+2021-10-18 17:49:13,873 : INFO : test_list : Choose Applicant type as Individual
+2021-10-18 17:49:13,958 : INFO : test_list : Get list of branches
+2021-10-18 17:49:14,026 : INFO : test_list : Choose Branch as Thane-B
+2021-10-18 17:49:14,114 : INFO : test_list : Get List of searched locations
+2021-10-18 17:49:14,894 : INFO : test_list : Choose Anand Nagar Location
+2021-10-18 17:49:15,095 : INFO : test_list : Get list of Brokers
+2021-10-18 17:49:15,756 : INFO : test_list : Choose AK2010202 broker
+2021-10-18 17:49:16,336 : INFO : test_list : Click Logout
+2021-10-18 17:49:23,637 : INFO : test_login : Enter Username
+2021-10-18 17:49:23,828 : INFO : test_login : Enter Password
+2021-10-18 17:49:23,977 : INFO : test_login : Click Login button
+2021-10-18 17:49:29,054 : INFO : test_login : Click Logout
+2021-10-18 17:49:31,563 : INFO : test_login : Enter Username
+2021-10-18 17:49:31,722 : INFO : test_login : Enter Password
+2021-10-18 17:49:31,821 : INFO : test_login : Click Login button
+2021-10-18 17:49:32,414 : INFO : test_login : Enter Username
+2021-10-18 17:49:32,619 : INFO : test_login : Enter Password
+2021-10-18 17:49:32,788 : INFO : test_login : Click Login button
+2021-10-18 17:49:33,283 : INFO : test_login : Enter Username
+2021-10-18 17:49:33,434 : INFO : test_login : Enter Password
+2021-10-18 17:49:33,559 : INFO : test_login : Click Login button
+2021-10-18 17:49:34,666 : INFO : test_login : Enter Username
+2021-10-18 17:49:34,838 : INFO : test_login : Enter Password
+2021-10-18 17:49:34,965 : INFO : test_login : Click Login button
+2021-10-18 17:49:35,526 : INFO : test_login : Enter Username
+2021-10-18 17:49:35,750 : INFO : test_login : Enter Password
+2021-10-18 17:49:35,909 : INFO : test_login : Click Login button
+2021-10-18 17:49:42,363 : INFO : test_new_application : Enter Username
+2021-10-18 17:49:42,583 : INFO : test_new_application : Enter Password
+2021-10-18 17:49:42,730 : INFO : test_new_application : Click Login button
+2021-10-18 17:49:51,983 : INFO : test_new_application : Click Logout
