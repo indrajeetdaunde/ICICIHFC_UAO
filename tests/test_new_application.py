@@ -38,7 +38,6 @@ class TestNewApplication(BaseClass):
         login_title = login_page.get_login_title().text
         print(login_title)
         assert "Unified Account Opening" == login_title
-        assert "Unified Account Opening" == login_title
 
     @pytest.fixture(params=NewApplicationPageData.test_new_application_page_data)
     def get_data(self, request):
