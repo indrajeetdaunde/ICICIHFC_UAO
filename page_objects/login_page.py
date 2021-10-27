@@ -1,4 +1,6 @@
 from selenium.webdriver.common.by import By
+
+from page_objects.applicant_document_upload_page import ApplicantDocumentUploadPage
 from page_objects.dashboard_page import DashboardPage
 
 
@@ -22,8 +24,10 @@ class LoginPage:
 
     def click_login_button(self):
         self.driver.find_element(*LoginPage.login_button).click()
-        dashboard_page = DashboardPage(self.driver)
-        return dashboard_page
+        # dashboard_page = DashboardPage(self.driver)
+        document_upload_pge = ApplicantDocumentUploadPage(self.driver)
+        #return dashboard_page
+        return document_upload_pge
 
     def get_login_title(self):
         return self.driver.find_element(*LoginPage.login_title)
