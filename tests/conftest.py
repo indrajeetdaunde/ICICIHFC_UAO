@@ -25,7 +25,7 @@ def setup(request):
 
     environment = request.config.getoption("environment")
     if environment == "dev":
-        driver.get("https://icicihfc.onboard.gravithy.com/backoffice")
+        driver.get("https://icicihfc.onboard.gravithy.com/backoffice/LoanApplicationStep/StepDocuments/5810")
     elif environment == "uat":
         driver.get("https://uatloan.icicihfc.com/backoffice")
     driver.maximize_window()

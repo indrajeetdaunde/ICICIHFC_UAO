@@ -194,3 +194,64 @@
 2021-10-18 19:04:06,453 : INFO : test_new_application : Enter Password
 2021-10-18 19:04:06,607 : INFO : test_new_application : Click Login button
 2021-10-18 19:04:12,605 : INFO : test_new_application : Click Logout
+2021-10-27 13:38:49,456 : INFO : test_create_new_application : Enter Username
+2021-10-27 13:38:49,761 : INFO : test_create_new_application : Enter Password
+2021-10-27 13:38:49,901 : INFO : test_create_new_application : Click Login button
+2021-10-27 13:39:28,768 : INFO : test_create_new_application : Enter Applicant Name
+2021-10-27 13:39:28,933 : INFO : test_create_new_application : Enter Applicant Email Id
+2021-10-27 13:39:29,083 : INFO : test_create_new_application : Enter Applicant Mobile Number
+2021-10-27 13:39:29,216 : INFO : test_create_new_application : Choose Customer type
+2021-10-27 13:39:29,296 : INFO : test_create_new_application : Choose branch
+2021-10-27 13:39:29,367 : INFO : test_create_new_application : Choose Location
+2021-10-27 13:39:29,439 : INFO : test_create_new_application : Choose Search Location
+2021-10-27 13:39:30,593 : INFO : test_create_new_application : Choose searched location
+2021-10-27 13:39:30,691 : INFO : test_create_new_application : Choose Broker
+2021-10-27 13:39:30,749 : INFO : test_create_new_application : Choose Search Broker
+2021-10-27 13:39:31,889 : INFO : test_create_new_application : Choose searched Broker
+2021-10-27 13:39:47,540 : INFO : test_create_new_application : Click Logout
+2021-10-27 13:40:05,684 : INFO : test_list : Enter Applicant Name
+2021-10-27 13:40:05,825 : INFO : test_list : Enter Applicant Email ID
+2021-10-27 13:40:05,949 : INFO : test_list : Enter Applican Mobile Number
+2021-10-27 13:40:06,050 : INFO : test_list : Choose Applicant type as Individual
+2021-10-27 13:40:06,133 : INFO : test_list : Get list of branches
+2021-10-27 13:40:06,195 : INFO : test_list : Choose Branch as Thane-B
+2021-10-27 13:40:06,275 : INFO : test_list : Get List of searched locations
+2021-10-27 13:40:06,988 : INFO : test_list : Choose Anand Nagar Location
+2021-10-27 13:40:07,141 : INFO : test_list : Get list of Brokers
+2021-10-27 13:40:07,787 : INFO : test_list : Choose AK2010202 broker
+2021-10-27 13:40:08,014 : INFO : test_list : Click Logout
+2021-10-27 13:40:15,068 : INFO : test_login : Enter Username
+2021-10-27 13:40:15,266 : INFO : test_login : Enter Password
+2021-10-27 13:40:15,399 : INFO : test_login : Click Login button
+2021-10-27 13:40:22,943 : INFO : test_login : Click Logout
+2021-10-27 13:40:25,302 : INFO : test_login : Enter Username
+2021-10-27 13:40:25,457 : INFO : test_login : Enter Password
+2021-10-27 13:40:25,568 : INFO : test_login : Click Login button
+2021-10-27 13:40:26,059 : INFO : test_login : Enter Username
+2021-10-27 13:40:26,194 : INFO : test_login : Enter Password
+2021-10-27 13:40:26,281 : INFO : test_login : Click Login button
+2021-10-27 13:40:26,728 : INFO : test_login : Enter Username
+2021-10-27 13:40:26,873 : INFO : test_login : Enter Password
+2021-10-27 13:40:26,984 : INFO : test_login : Click Login button
+2021-10-27 13:40:27,906 : INFO : test_login : Enter Username
+2021-10-27 13:40:28,043 : INFO : test_login : Enter Password
+2021-10-27 13:40:28,153 : INFO : test_login : Click Login button
+2021-10-27 13:40:28,307 : INFO : test_login : Enter Username
+2021-10-27 13:40:28,735 : INFO : test_login : Enter Password
+2021-10-27 13:40:28,975 : INFO : test_login : Click Login button
+2021-10-27 13:40:35,044 : INFO : test_new_application : Enter Username
+2021-10-27 13:40:35,229 : INFO : test_new_application : Enter Password
+2021-10-27 13:40:35,380 : INFO : test_new_application : Click Login button
+2021-10-27 13:40:44,121 : INFO : test_new_application : Click Logout
+2021-10-27 14:29:08,040 : INFO : test_proof_of_identity : Enter Username
+2021-10-27 14:29:08,217 : INFO : test_proof_of_identity : Enter Password
+2021-10-27 14:29:08,367 : INFO : test_proof_of_identity : Click Login button
+2021-10-27 14:30:09,986 : INFO : test_proof_of_identity : Enter Username
+2021-10-27 14:30:10,177 : INFO : test_proof_of_identity : Enter Password
+2021-10-27 14:30:10,312 : INFO : test_proof_of_identity : Click Login button
+2021-10-27 14:31:15,139 : INFO : test_proof_of_identity : Enter Username
+2021-10-27 14:31:15,341 : INFO : test_proof_of_identity : Enter Password
+2021-10-27 14:31:15,480 : INFO : test_proof_of_identity : Click Login button
+2021-10-27 14:34:17,273 : INFO : test_upload_documents : Enter Username
+2021-10-27 14:34:17,467 : INFO : test_upload_documents : Enter Password
+2021-10-27 14:34:17,623 : INFO : test_upload_documents : Click Login button
